@@ -1,0 +1,72 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CH340G
+D CH340G USB to TTL Interface SOIJ-16
+$ENDCMP
+#
+$CMP C_Cer_SMD_0402
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP C_Cer_SMD_0603
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP C_Cer_SMD_0805
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP C_Cer_SMD_1206
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP C_Cer_SMD_1210
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP C_Tant_SMD_A
+D Polarised capacitor
+$ENDCMP
+#
+$CMP C_Tant_SMD_B
+D Polarised capacitor
+$ENDCMP
+#
+$CMP C_Tant_SMD_C
+D Polarised capacitor
+$ENDCMP
+#
+$CMP C_Tant_SMD_D
+D Polarised capacitor
+$ENDCMP
+#
+$CMP C_Tant_SMD_E
+D Polarised capacitor
+$ENDCMP
+#
+$CMP R_SMD_0402
+D Resistor
+$ENDCMP
+#
+$CMP R_SMD_0603
+D Resistor
+$ENDCMP
+#
+$CMP R_SMD_0805
+D Resistor
+$ENDCMP
+#
+$CMP R_SMD_1206
+D Resistor
+$ENDCMP
+#
+$CMP R_SMD_1210
+D Resistor
+$ENDCMP
+#
+$CMP nRF24L01_MODULE
+D BUCK CC LED Driver 30V/1.2A High Dimming Ratio SOT-895
+K BUCK LED Driver
+$ENDCMP
+#
+#End Doc Library
