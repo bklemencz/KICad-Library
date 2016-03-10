@@ -1,12 +1,25 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP STM8S003K3
-D value line 8-bit microcontrollers LQFP-32
+$CMP STM8S003F3
+D Mainstream Value line 8-bit MCU with 8 Kbytes Flash, 16 MHz CPU, integrated EEPROM TSSOP-20
 K STM8S
 $ENDCMP
 #
+$CMP STM8S003K3
+D Mainstream Value line 8-bit MCU with 8 Kbytes Flash, 16 MHz CPU, integrated EEPROM LQFP-32
+K STM8S
+$ENDCMP
+#
+$CMP STM8S103F2
+D Mainstream Access line 8-bit MCU with 4 Kbytes Flash, 16 MHz CPU, integrated EEPROM TSSOP-20
+$ENDCMP
+#
+$CMP STM8S103F3
+D Mainstream Access line 8-bit MCU with 8 Kbytes Flash, 16 MHz CPU, integrated EEPROM TSSOP-20
+$ENDCMP
+#
 $CMP STM8S103K3
-D Access line multi-purpose 8-bit microcontrollers LQFP-32
+D Mainstream Access line 8-bit MCU with 8 Kbytes Flash, 16 MHz CPU, integrated EEPROM LQFP-32
 K STM8S
 $ENDCMP
 #
