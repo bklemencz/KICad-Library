@@ -64,6 +64,11 @@ $CMP R_SMD_1210
 D Resistor
 $ENDCMP
 #
+$CMP XL6009
+D 400KHz 60V 4A Switching Current Boost / Buck-Boost / Inverting DC/DC Converter TO-263-5
+K BOOST Converter
+$ENDCMP
+#
 $CMP nRF24L01_MODULE
 D BUCK CC LED Driver 30V/1.2A High Dimming Ratio SOT-895
 K BUCK LED Driver

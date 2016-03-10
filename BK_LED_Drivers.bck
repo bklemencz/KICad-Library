@@ -50,11 +50,6 @@ D BOOST CC LED Driver Fixed Off Time/External SW 2.5A MSOP-8
 K BOOST LED Driver Extarnal SW
 $ENDCMP
 #
-$CMP XL6001
-D 400KHz 32V 2A Switching Current Boost LED Constant Current Driver SOIC-8
-K BOOST LED DRIVER
-$ENDCMP
-#
 $CMP XL6004
 D 400KHz 60V 3A Switching Current Boost LED Constant Current Driver TO-252-5
 K BOOST LED Driver
