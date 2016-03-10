@@ -44,6 +44,21 @@ $CMP C_Tant_SMD_E
 D Polarised capacitor
 $ENDCMP
 #
+$CMP LT8900_2.54Pitch_20x20
+D Low Cost 2.4GHz Radio Transceiver
+K RF transceiver
+$ENDCMP
+#
+$CMP LT8910_2.54Pitch_20x20
+D Low Cost 2.4GHz Radio Transceiver
+K Radio Transceiver
+$ENDCMP
+#
+$CMP LT8920_2.54Pitch_20x20
+D Low Cost 2.4GHz Radio Transceiver
+K Radio Transceiver
+$ENDCMP
+#
 $CMP R_SMD_0402
 D Resistor
 $ENDCMP
@@ -75,8 +90,8 @@ K BOOST Converter
 $ENDCMP
 #
 $CMP nRF24L01_MODULE
-D BUCK CC LED Driver 30V/1.2A High Dimming Ratio SOT-895
-K BUCK LED Driver
+D highly integrated, ultra low power (ULP) 2Mbps RF transceiver for the 2.4GHz ISM
+K RF transceiver
 $ENDCMP
 #
 #End Doc Library
