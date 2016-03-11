@@ -44,6 +44,30 @@ $CMP C_Tant_SMD_E
 D Polarised capacitor
 $ENDCMP
 #
+$CMP IND_SMD_SHLD_CDRH127
+D Power Inductor SMD Shielded 12x12x7
+$ENDCMP
+#
+$CMP IND_SMD_SHLD_CDRH74
+D Power Inductor SMD Shielded 7x7x4
+$ENDCMP
+#
+$CMP IND_SMD_UNSH_CD_32
+D Power Inductor SMD Unshielded 
+$ENDCMP
+#
+$CMP IND_SMD_UNSH_CD_43
+D Power Inductor SMD Unshielded 
+$ENDCMP
+#
+$CMP IND_SMD_UNSH_CD_54
+D Power Inductor SMD Unshielded 
+$ENDCMP
+#
+$CMP IND_SMD_UNSH_CD_75
+D Power Inductor SMD Unshielded 
+$ENDCMP
+#
 $CMP LT8900_2.54Pitch_20x20
 D Low Cost 2.4GHz Radio Transceiver
 K RF transceiver
@@ -79,13 +103,109 @@ $CMP R_SMD_1210
 D Resistor
 $ENDCMP
 #
+$CMP SS12
+D 1A/20V SMA Surface Mount Schottky Barrier Rectifier 
+K Schottky Barrier Rectifier Diode
+$ENDCMP
+#
+$CMP SS13
+D 1A/30V SMA Surface Mount Schottky Barrier Rectifier 
+$ENDCMP
+#
+$CMP SS14
+D 1A/40V SMA Surface Mount Schottky Barrier Rectifier 
+$ENDCMP
+#
+$CMP SS15
+D 1A/50V SMA Surface Mount Schottky Barrier Rectifier 
+$ENDCMP
+#
+$CMP SS16
+D 1A/60V SMA Surface Mount Schottky Barrier Rectifier 
+$ENDCMP
+#
+$CMP SS210
+D 2A/100V SMB Surface Mount Schottky Barrier Rectifier 
+$ENDCMP
+#
+$CMP SS22
+D 2A/20V SMB Surface Mount Schottky Barrier Rectifier 
+K Schottky Barrier Rectifier Diode
+$ENDCMP
+#
+$CMP SS23
+D 2A/30V SMB Surface Mount Schottky Barrier Rectifier 
+$ENDCMP
+#
+$CMP SS24
+D 2A/40V SMB Surface Mount Schottky Barrier Rectifier 
+$ENDCMP
+#
+$CMP SS25
+D 2A/50V SMB Surface Mount Schottky Barrier Rectifier 
+$ENDCMP
+#
+$CMP SS26
+D 2A/60V SMB Surface Mount Schottky Barrier Rectifier 
+$ENDCMP
+#
+$CMP SS32
+D 3A/20V SMC Surface Mount Schottky Barrier Rectifier 
+K Schottky Barrier Rectifier Diode
+$ENDCMP
+#
+$CMP SS33
+D 3A/30V SMC Surface Mount Schottky Barrier Rectifier 
+$ENDCMP
+#
+$CMP SS34
+D 3A/40V SMC Surface Mount Schottky Barrier Rectifier 
+$ENDCMP
+#
+$CMP SS35
+D 3A/50V SMC Surface Mount Schottky Barrier Rectifier
+$ENDCMP
+#
+$CMP SS36
+D 3A/60V SMC Surface Mount Schottky Barrier Rectifier 
+$ENDCMP
+#
+$CMP SS510
+D 5A/100V SMC Surface Mount Schottky Barrier Rectifier
+$ENDCMP
+#
+$CMP SS52
+D 5A/20V SMC Surface Mount Schottky Barrier Rectifier
+K Schottky Barrier Rectifier Diode
+$ENDCMP
+#
+$CMP SS53
+D 5A/30V SMC Surface Mount Schottky Barrier Rectifier
+$ENDCMP
+#
+$CMP SS54
+D 5A/40V SMC Surface Mount Schottky Barrier Rectifier
+$ENDCMP
+#
+$CMP SS55
+D 5A/50V SMC Surface Mount Schottky Barrier Rectifier
+$ENDCMP
+#
+$CMP SS56
+D 5A/60V SMC Surface Mount Schottky Barrier Rectifier
+$ENDCMP
+#
+$CMP SS58
+D 5A/80V SMC Surface Mount Schottky Barrier Rectifier
+$ENDCMP
+#
 $CMP XL4016
-D 8A 180KHz 40V Buck DC to DC Converter TO-220-5
+D 8A/40V 180KHz Buck DC to DC Converter TO-220-5
 K BUCK Converter
 $ENDCMP
 #
 $CMP XL6009
-D 400KHz 60V 4A Switching Current Boost / Buck-Boost / Inverting DC/DC Converter TO-263-5
+D 4A/60V 400KHz Switching Current Boost / Buck-Boost / Inverting DC/DC Converter TO-263-5
 K BOOST Converter
 $ENDCMP
 #

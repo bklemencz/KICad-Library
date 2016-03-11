@@ -536,6 +536,106 @@ X ~ 2 0 -100 30 U 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
+# SS12
+#
+DEF SS12 D 0 10 N N 1 F N
+F0 "D" -50 80 50 H V L CNN
+F1 "SS12" -100 -100 50 H V L CNN
+F2 "Diodes_SMD:SMA_Standard" 50 -200 50 H I C CNN
+F3 "http://www.vishay.com/docs/88746/ss12.pdf" 50 -300 50 H I C CNN
+ALIAS SS13 SS14 SS15 SS16
+$FPLIST
+ Diode_*
+ D-Pak_TO252AA
+ *SingleDiode
+ *SingleDiode*
+ *_Diode_*
+$ENDFPLIST
+DRAW
+P 2 0 1 0  -30 -40  -30 40 N
+P 3 0 1 0  -30 -40  -20 -40  -20 -30 N
+P 3 0 1 0  -30 40  -40 40  -40 30 N
+P 4 0 1 0  30 -40  -30 0  30 40  30 -40 F
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SS22
+#
+DEF SS22 D 0 10 N N 1 F N
+F0 "D" -50 80 50 H V L CNN
+F1 "SS22" -100 -100 50 H V L CNN
+F2 "Diodes_SMD:SMB_Standard" 50 -200 50 H I C CNN
+F3 "http://www.vishay.com/docs/88748/ss22.pdf" 50 -300 50 H I C CNN
+ALIAS SS23 SS24 SS25 SS26 SS210
+$FPLIST
+ Diode_*
+ D-Pak_TO252AA
+ *SingleDiode
+ *SingleDiode*
+ *_Diode_*
+$ENDFPLIST
+DRAW
+P 2 0 1 0  -30 -40  -30 40 N
+P 3 0 1 0  -30 -40  -20 -40  -20 -30 N
+P 3 0 1 0  -30 40  -40 40  -40 30 N
+P 4 0 1 0  30 -40  -30 0  30 40  30 -40 F
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SS32
+#
+DEF SS32 D 0 10 N N 1 F N
+F0 "D" -50 80 50 H V L CNN
+F1 "SS32" -100 -100 50 H V L CNN
+F2 "Diodes_SMD:SMC_Standard" 50 -200 50 H I C CNN
+F3 "http://www.vishay.com/docs/88751/ss32.pdf" 50 -300 50 H I C CNN
+ALIAS SS33 SS34 SS35 SS36
+$FPLIST
+ Diode_*
+ D-Pak_TO252AA
+ *SingleDiode
+ *SingleDiode*
+ *_Diode_*
+$ENDFPLIST
+DRAW
+P 2 0 1 0  -30 -40  -30 40 N
+P 3 0 1 0  -30 -40  -20 -40  -20 -30 N
+P 3 0 1 0  -30 40  -40 40  -40 30 N
+P 4 0 1 0  30 -40  -30 0  30 40  30 -40 F
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SS52
+#
+DEF SS52 D 0 10 N N 1 F N
+F0 "D" -50 80 50 H V L CNN
+F1 "SS52" -100 -100 50 H V L CNN
+F2 "Diodes_SMD:SMC_Standard" 50 -200 50 H I C CNN
+F3 "http://pdf1.alldatasheet.com/datasheet-pdf/view/222984/HY/SS54.html" 50 -300 50 H I C CNN
+ALIAS SS53 SS54 SS55 SS56 SS58 SS510
+$FPLIST
+ Diode_*
+ D-Pak_TO252AA
+ *SingleDiode
+ *SingleDiode*
+ *_Diode_*
+$ENDFPLIST
+DRAW
+P 2 0 1 0  -30 -40  -30 40 N
+P 3 0 1 0  -30 -40  -20 -40  -20 -30 N
+P 3 0 1 0  -30 40  -40 40  -40 30 N
+P 4 0 1 0  30 -40  -30 0  30 40  30 -40 F
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # XL4016
 #
 DEF XL4016 U 0 40 Y Y 1 F N
