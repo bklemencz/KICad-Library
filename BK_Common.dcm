@@ -1,5 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AO3400
+D 30V/5.8A VGS=2.5V N-Channel MOSFET
+$ENDCMP
+#
+$CMP AO3416
+D 20V/6.5A Vgs=1.8V N-Channel MOSFET
+$ENDCMP
+#
 $CMP CH340G
 D CH340G USB to TTL Interface SOIJ-16
 $ENDCMP
@@ -83,6 +91,10 @@ D Low Cost 2.4GHz Radio Transceiver
 K Radio Transceiver
 $ENDCMP
 #
+$CMP ME15N10
+D 100V/14.7A Vgs=10V N-Channel MOSFET TO-252
+$ENDCMP
+#
 $CMP R_SMD_0402
 D Resistor
 $ENDCMP
@@ -101,6 +113,10 @@ $ENDCMP
 #
 $CMP R_SMD_1210
 D Resistor
+$ENDCMP
+#
+$CMP SI2300
+D 20V/3.6A  VGS=2.5V N-Channel Enhancement Mode Field Effect Transistor 
 $ENDCMP
 #
 $CMP SS12
