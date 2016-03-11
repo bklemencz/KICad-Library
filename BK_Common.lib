@@ -689,6 +689,29 @@ X A 2 100 0 70 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# US1A
+#
+DEF US1A D 0 10 N N 1 F N
+F0 "D" -50 80 50 H V L CNN
+F1 "US1A" -100 -100 50 H V L CNN
+F2 "Diodes_SMD:SMA_Standard" 0 -200 50 H I C CNN
+F3 "http://www.vishay.com/docs/88768/us1.pdf" 100 -300 50 H I C CNN
+ALIAS US1B US1D US1G US1J US1K US1M
+$FPLIST
+ Diode_*
+ D-Pak_TO252AA
+ *SingleDiode
+ *SingleDiode*
+ *_Diode_*
+$ENDFPLIST
+DRAW
+P 2 0 1 0  -30 -40  -30 40 N
+P 4 0 1 0  30 -40  -30 0  30 40  30 -40 F
+X K 1 -100 0 70 R 50 50 1 1 P
+X A 2 100 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # XL4016
 #
 DEF XL4016 U 0 40 Y Y 1 F N

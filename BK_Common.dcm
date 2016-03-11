@@ -215,6 +215,34 @@ $CMP SS58
 D 5A/80V SMC Surface Mount Schottky Barrier Rectifier
 $ENDCMP
 #
+$CMP US1A
+D 50V/1A SMA Trr=50ns Surface Mount Ultrafast Rectifier
+$ENDCMP
+#
+$CMP US1B
+D 100V/1A SMA Trr=50ns Surface Mount Ultrafast Rectifier
+$ENDCMP
+#
+$CMP US1D
+D 200V/1A SMA Trr=50ns Surface Mount Ultrafast Rectifier
+$ENDCMP
+#
+$CMP US1G
+D 400V/1A SMA Trr=50ns Surface Mount Ultrafast Rectifier
+$ENDCMP
+#
+$CMP US1J
+D 600V/1A SMA Trr=50ns Surface Mount Ultrafast Rectifier
+$ENDCMP
+#
+$CMP US1K
+D 800V/1A SMA Trr=50ns Surface Mount Ultrafast Rectifier
+$ENDCMP
+#
+$CMP US1M
+D 1000V/1A SMA Trr=50ns Surface Mount Ultrafast Rectifier
+$ENDCMP
+#
 $CMP XL4016
 D 8A/40V 180KHz Buck DC to DC Converter TO-220-5
 K BUCK Converter
