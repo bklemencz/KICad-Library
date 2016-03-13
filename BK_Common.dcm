@@ -52,6 +52,11 @@ $CMP C_Tant_SMD_E
 D Polarised capacitor
 $ENDCMP
 #
+$CMP HT7333-A
+D 3.3V, 250mA TinyPowerTM LDO SOT-89
+K POWER REGUL
+$ENDCMP
+#
 $CMP IND_SMD_SHLD_CDRH127
 D Power Inductor SMD Shielded 12x12x7
 $ENDCMP
