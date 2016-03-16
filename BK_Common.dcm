@@ -220,6 +220,11 @@ $CMP SS58
 D 5A/80V SMC Surface Mount Schottky Barrier Rectifier
 $ENDCMP
 #
+$CMP TL431
+D 2.5V Precision Programmable Reference SOT-23
+K Voltage Reference
+$ENDCMP
+#
 $CMP US1A
 D 50V/1A SMA Trr=50ns Surface Mount Ultrafast Rectifier
 $ENDCMP
@@ -256,6 +261,11 @@ $ENDCMP
 $CMP XL6009
 D 4A/60V 400KHz Switching Current Boost / Buck-Boost / Inverting DC/DC Converter TO-263-5
 K BOOST Converter
+$ENDCMP
+#
+$CMP ZENER
+D Diode zener
+K DEV DIODE
 $ENDCMP
 #
 $CMP nRF24L01_MODULE
