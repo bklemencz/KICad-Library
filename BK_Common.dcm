@@ -52,6 +52,31 @@ $CMP C_Tant_SMD_E
 D Polarised capacitor
 $ENDCMP
 #
+$CMP FB_SMD_0402
+D Ferrite Bead SMD 0402
+K EMI Filter
+$ENDCMP
+#
+$CMP FB_SMD_0603
+D Ferrite Bead SMD 0603
+K EMI Filter
+$ENDCMP
+#
+$CMP FB_SMD_0805
+D Ferrite Bead SMD 0805
+K EMI Filter
+$ENDCMP
+#
+$CMP FB_SMD_1206
+D Ferrite Bead SMD 1206
+K EMI Filter
+$ENDCMP
+#
+$CMP FB_SMD_1210
+D Ferrite Bead SMD 1210
+K EMI Filter
+$ENDCMP
+#
 $CMP HT7333-A
 D 3.3V, 250mA TinyPowerTM LDO SOT-89
 K POWER REGUL
