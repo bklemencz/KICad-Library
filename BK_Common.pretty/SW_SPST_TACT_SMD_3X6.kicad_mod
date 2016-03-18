@@ -31,4 +31,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
+  (model ../../../../../../Users/t9569bk/Documents/PCB_Libs/KICad-Library/BK_Common.pretty/3D/SW_SPST_TACT_SMD_3X6.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
