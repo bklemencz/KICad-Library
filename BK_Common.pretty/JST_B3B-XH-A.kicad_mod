@@ -31,4 +31,9 @@
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))
   )
+  (model E:/Project/KiCad/KICad-Library/BK_Common.pretty/3D/JST_B3B-XH-A.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.393701 0.393701 0.393701))
+    (rotate (xyz 0 0 0))
+  )
 )
