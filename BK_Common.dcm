@@ -82,6 +82,10 @@ D Ferrite Bead SMD 1210
 K EMI Filter
 $ENDCMP
 #
+$CMP HR911105A
+D RJ49 Connector with Magnetics
+$ENDCMP
+#
 $CMP HT7333-A
 D 3.3V, 250mA TinyPowerTM LDO SOT-89
 K POWER REGUL
@@ -255,6 +259,11 @@ D 2.5V Precision Programmable Reference SOT-23
 K Voltage Reference
 $ENDCMP
 #
+$CMP TMP36
+D Low Voltage Temperature Sensors TO-92 Horizontal
+K Temp Sensor
+$ENDCMP
+#
 $CMP US1A
 D 50V/1A SMA Trr=50ns Surface Mount Ultrafast Rectifier
 $ENDCMP
@@ -281,6 +290,11 @@ $ENDCMP
 #
 $CMP US1M
 D 1000V/1A SMA Trr=50ns Surface Mount Ultrafast Rectifier
+$ENDCMP
+#
+$CMP W5500
+D SPI Hardwired TCP/IP embedded Ethernet controller LQFP-48
+K ETH Controller
 $ENDCMP
 #
 $CMP XL4016
