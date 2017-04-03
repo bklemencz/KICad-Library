@@ -57,6 +57,12 @@ $CMP C_Tant_SMD_E
 D Polarised capacitor
 $ENDCMP
 #
+$CMP ESP-01v090
+D ESP8266 ESP-01 module, v090
+K MODULE ESP8266 ESP-8266
+F http://l0l.org.uk/2014/12/esp8266-modules-hardware-guide-gotta-catch-em-all/
+$ENDCMP
+#
 $CMP FB_SMD_0402
 D Ferrite Bead SMD 0402
 K EMI Filter
@@ -132,6 +138,10 @@ $ENDCMP
 #
 $CMP ME15N10
 D 100V/14.7A Vgs=10V N-Channel MOSFET TO-252
+$ENDCMP
+#
+$CMP PCA9685
+D PCA9685 - 16Ch PWM Driver
 $ENDCMP
 #
 $CMP R_SMD_0402
