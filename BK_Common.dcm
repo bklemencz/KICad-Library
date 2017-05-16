@@ -88,6 +88,11 @@ D Ferrite Bead SMD 1210
 K EMI Filter
 $ENDCMP
 #
+$CMP HLW8012
+D Single Phase Power Monitoring SOP8
+K Power Monitoring
+$ENDCMP
+#
 $CMP HR911105A
 D RJ49 Connector with Magnetics
 $ENDCMP
