@@ -327,6 +327,11 @@ D Diode zener
 K DEV DIODE
 $ENDCMP
 #
+$CMP nRF24L01_12x18mm
+D highly integrated, ultra low power (ULP) 2Mbps RF transceiver for the 2.4GHz ISM
+K RF transceiver
+$ENDCMP
+#
 $CMP nRF24L01_MODULE
 D highly integrated, ultra low power (ULP) 2Mbps RF transceiver for the 2.4GHz ISM
 K RF transceiver
