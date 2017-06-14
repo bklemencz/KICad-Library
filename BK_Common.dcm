@@ -126,6 +126,11 @@ $CMP IND_SMD_UNSH_CD_75
 D Power Inductor SMD Unshielded 
 $ENDCMP
 #
+$CMP LN2544
+D 100V 1A CC Constant Toff LED Driver with DIM
+F http://www.chipli.cn/uploadfile/2016/0629/20160629113716457.pdf
+$ENDCMP
+#
 $CMP LT8900_2.54Pitch_20x20
 D Low Cost 2.4GHz Radio Transceiver
 K RF transceiver
