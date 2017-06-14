@@ -149,6 +149,12 @@ $CMP PCA9685
 D PCA9685 - 16Ch PWM Driver
 $ENDCMP
 #
+$CMP PSU_5V700mA
+D ESP8266 ESP-01 module, v090
+K MODULE ESP8266 ESP-8266
+F http://l0l.org.uk/2014/12/esp8266-modules-hardware-guide-gotta-catch-em-all/
+$ENDCMP
+#
 $CMP R_SMD_0402
 D Resistor
 $ENDCMP
